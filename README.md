@@ -33,7 +33,9 @@ Organizations often purchase more software licenses than are actively used due t
 
   **Q5. How does license usage trend over time?**  
   A5. Monthly activity data was analyzed to assess usage trends over time. Aggregated trends revealed that some software tools showed stable or increasing adoption, while others experienced flat or declining usage. These trends help distinguish tools that are gaining value from those that may no longer justify their current license counts.
+  </details>
 
 
 ## Data Sources
 Due to the scarcity of comprehensive public school operational data on Kaggle, this project employs a synthetically generated dataset that realistically simulates public school licensing, staffing, and student metrics. The primary objective of this project is to showcase data modeling, SQL analysis, and data visualization techniques. 
+
