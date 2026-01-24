@@ -19,6 +19,4 @@ Organizations often purchase more software licenses than are actively used due t
 	•	How does license usage trend over time?
 
 ## Data Sources
-	•	License utilization data (licenses purchased, assigned, and used)
-	•	Monthly software activity data (active users by month)
-	•	School and district reference data
+Due to the scarcity of comprehensive public school operational data on Kaggle, this project employs a synthetically generated dataset that realistically simulates public school licensing, staffing, and student metrics. The primary objective of this project is to showcase data modeling, SQL analysis, and data visualization techniques. 
