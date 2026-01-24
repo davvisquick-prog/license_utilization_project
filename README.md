@@ -11,7 +11,7 @@ Domain: Education
 
 Organizations often purchase more software licenses than are actively used due to limited visibility into adoption. This project evaluates whether assigned and purchased licenses are being effectively utilized and identifies opportunities to reclaim licenses, improve adoption, and optimize software spending at the school level.
 
-## Key Questions Answered
+## Key Questions Answered (comments in MySQL)
 	•	Are we purchasing more licenses than we actually need?
 	•	Which licenses are underutilized and should be reclaimed?
 	•	Which schools have the lowest license utilization rates?
