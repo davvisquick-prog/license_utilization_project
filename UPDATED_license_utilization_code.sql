@@ -39,15 +39,6 @@ LIMIT 6;
 
 # Are we purchasing more licenses than we actually need?
 
-WITH license_totals AS (
-    SELECT
-        software_name,
-        SUM(licenses_purchased) AS total_license_purchases,
-        SUM(licenses_used) AS total_used,
-        SUM(licenses_purchased - licenses_used) AS total_reclaimable
-    FROM license_utilization
-    GROUP BY software_name
-)
 SELECT
     software_name,
     SUM(licenses_purchased) AS total_purchased,
