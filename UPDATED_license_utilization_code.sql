@@ -75,7 +75,7 @@ ORDER BY school_utilization_rate DESC
 LIMIT 5;
 
 
-# Are there users assigned licenses who never use them?
+Are there schools where assigned licenses show no monthly usage?
 
 SELECT
   lu.school_id,
